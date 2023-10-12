@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 玉茹游戏工作室介绍
+title: 玉汝游戏工作室介绍
 date: 2023-10-12
 categories: blog
 tags: [三国杀,死绑]
