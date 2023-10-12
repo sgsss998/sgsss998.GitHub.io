@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "milestone"
-description: "代表作"
+title: "商品列表"
+description: "在售死绑账号一览"
 header-img: "img/zhihu.jpg"
 ---
 
