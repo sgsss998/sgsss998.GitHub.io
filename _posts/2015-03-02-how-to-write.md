@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 这是第一篇博客呦～～～！
-date: 2015-3-02
+title: 玉茹游戏工作室介绍
+date: 2023-10-12
 categories: blog
-tags: [标签一,标签二]
+tags: [三国杀,死绑]
 description: 文章金句。
 ---
 
