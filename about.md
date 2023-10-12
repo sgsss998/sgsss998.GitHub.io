@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "玉茹游戏工作室——我们是谁"
+title: "工作室介绍"
 description: "三国杀死绑账号专营 " 
 header-img: "img/green.jpg"
 ---
