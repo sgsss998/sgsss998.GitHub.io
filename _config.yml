@@ -1,14 +1,14 @@
 # Site settings
-title: 玉汝游戏工作室 # 你的博客名字，可以定义修订
+title: color甜甜圈工作室 # 你的博客名字，可以定义修订
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: " 三国杀死绑专营"  # 一句话描述你的博客
+description: "三国杀死绑专营"  # 一句话描述你的博客
 baseurl: ""
 url: "http://cnfeat"  # 此处填写你的博客地址 
 
 # About/contact
 owner: 
-  name: "玉汝游戏工作室" # 填写作者信息：名字
+  name: "color甜甜圈工作室" # 填写作者信息：名字
   email: X@gmail.com # 填写作者信息：邮箱
   bio: "三国杀死绑专营" # 填写作者信息：博客描述
 
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "玉汝游戏工作室" # 你的名字
+      author: "color甜甜圈工作室" # 你的名字
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
