@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "买前须知"
-description: "文章汇总"
+description: "及文章汇总"
 header-img: "img/orange.jpg"
 ---
 
