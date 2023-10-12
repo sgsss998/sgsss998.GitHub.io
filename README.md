@@ -16,7 +16,7 @@
 
 ## 模板作者
 
-博客：独立写生：[cnfeat.com](cnfeat.com)
+博客：[nanhaiyuyin.com](nanhaiyuyin.com)
 
 联系方式：randomnumber666
 
