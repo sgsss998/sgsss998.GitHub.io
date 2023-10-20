@@ -23,7 +23,12 @@ header-img: "img/zhihu.jpg"
 【编号】：xy2
 三等骠骑，动神荀彧界钟会大宝17史诗骠骑 玉龙动态神荀彧无限点将 大宝 界钟会 留赞 许攸 神赵云 骆驼 白马 谋马超 小红帽 界朱然 界曹真 梦廊动态谋刘赪 精品多多
 【定价】：620
-
+![xy2-1](https://github.com/sgsss998/sgsss998.GitHub.io/blob/master/img/xy2-1.jpeg?raw=true)
+![xy2-2](https://github.com/sgsss998/sgsss998.GitHub.io/blob/master/img/xy2-2.jpeg?raw=true)
+![xy2-3](https://github.com/sgsss998/sgsss998.GitHub.io/blob/master/img/xy2-3.jpeg?raw=true)
+![xy2-4](https://github.com/sgsss998/sgsss998.GitHub.io/blob/master/img/xy2-4.jpeg?raw=true)
+![xy2-5](https://github.com/sgsss998/sgsss998.GitHub.io/blob/master/img/xy2-5.jpeg?raw=true)
+![xy2-6](https://github.com/sgsss998/sgsss998.GitHub.io/blob/master/img/xy2-6.jpeg?raw=true)
 
 
 【编号】：xy3
