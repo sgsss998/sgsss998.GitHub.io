@@ -30,9 +30,14 @@ header-img: "img/zhihu.jpg"
 ![xy2-5](https://raw.githubusercontent.com/sgsss998/sgsss998.GitHub.io/master/img/xy2-5.jpeg)
 ![xy2-6](https://raw.githubusercontent.com/sgsss998/sgsss998.GitHub.io/master/img/xy2-6.jpeg)
 
+
 【xy3】十常侍夫长 强力史诗十常侍炸鱼号
 【售价】240 元
-
+![xy3-1](https://raw.githubusercontent.com/sgsss998/sgsss998.GitHub.io/master/img/xy3-1.jpeg)
+![xy3-2](https://raw.githubusercontent.com/sgsss998/sgsss998.GitHub.io/master/img/xy3-2.jpeg)
+![xy3-3](https://raw.githubusercontent.com/sgsss998/sgsss998.GitHub.io/master/img/xy3-3.jpeg)
+![xy3-4](https://raw.githubusercontent.com/sgsss998/sgsss998.GitHub.io/master/img/xy3-4.jpeg)
+![xy3-5](https://raw.githubusercontent.com/sgsss998/sgsss998.GitHub.io/master/img/xy3-5.jpeg)
 
 【xy4】稀有动态灵妹文鸯大宝23史诗1.1W积分冠绝天下神吕布
 【售价】880 元
