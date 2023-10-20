@@ -5,9 +5,9 @@ description: "在售死绑账号一览"
 header-img: "img/zhihu.jpg"
 ---
 
-买号请添加微信19840175476
-买号请添加微信19840175476
-买号请添加微信19840175476
+买号请添加微信randomnumber666
+买号请添加微信randomnumber666
+买号请添加微信randomnumber666
 
 
 【编号】：xy1
