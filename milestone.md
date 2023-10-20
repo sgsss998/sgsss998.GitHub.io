@@ -10,9 +10,10 @@ header-img: "img/zhihu.jpg"
 买号请添加微信randomnumber666
 
 
-【编号】：xy1
-二等校尉，强力史诗裴秀 大宝界徐盛 精品多
-【定价】：198 
+精选死绑账号列表清单一览，可直接向客服发送编号进行咨询与购买:
+
+【xy1】强力史诗裴秀 大宝 精品多
+【售价】150 元
 ![xy1-1](https://raw.githubusercontent.com/sgsss998/sgsss998.GitHub.io/master/img/xy1-1.jpg)
 ![xy1-2](https://raw.githubusercontent.com/sgsss998/sgsss998.GitHub.io/master/img/xy1-2.jpg)
 ![xy1-3](https://raw.githubusercontent.com/sgsss998/sgsss998.GitHub.io/master/img/xy1-3.jpg)
@@ -20,9 +21,8 @@ header-img: "img/zhihu.jpg"
 ![xy1-5](https://raw.githubusercontent.com/sgsss998/sgsss998.GitHub.io/master/img/xy1-5.jpg)
 ![xy1-6](https://raw.githubusercontent.com/sgsss998/sgsss998.GitHub.io/master/img/xy1-6.jpg)
 
-【编号】：xy2
-三等骠骑，动神荀彧界钟会大宝17史诗骠骑 玉龙动态神荀彧无限点将 大宝 界钟会 留赞 许攸 神赵云 骆驼 白马 谋马超 小红帽 界朱然 界曹真 梦廊动态谋刘赪 精品多多
-【定价】：620
+【xy2】动神荀彧界钟会大宝17史诗骠骑 玉龙动态神荀彧无限点将 大宝 界钟会 留赞 许攸 神赵云 骆驼 白马 谋马超 小红帽 界朱然 界曹真 梦廊动态谋刘赪 精品多多
+【售价】650 元
 ![xy2-1](https://raw.githubusercontent.com/sgsss998/sgsss998.GitHub.io/master/img/xy2-1.jpeg)
 ![xy2-2](https://raw.githubusercontent.com/sgsss998/sgsss998.GitHub.io/master/img/xy2-2.jpeg)
 ![xy2-3](https://raw.githubusercontent.com/sgsss998/sgsss998.GitHub.io/master/img/xy2-3.jpeg)
@@ -30,57 +30,69 @@ header-img: "img/zhihu.jpg"
 ![xy2-5](https://raw.githubusercontent.com/sgsss998/sgsss998.GitHub.io/master/img/xy2-5.jpeg)
 ![xy2-6](https://raw.githubusercontent.com/sgsss998/sgsss998.GitHub.io/master/img/xy2-6.jpeg)
 
+【xy3】十常侍夫长 强力史诗十常侍炸鱼号
+【售价】240 元
 
 
-【编号】：xy3
-千夫长，十常侍 强力史诗 十常侍！ 炸鱼号 谋庞统 谋姜维
-【定价】：250
+【xy4】稀有动态灵妹文鸯大宝23史诗1.1W积分冠绝天下神吕布
+【售价】880 元
 
 
-
-【编号】：xy4，141
-骠骑，稀有动态灵妹文鸯大宝23史诗1.1W积分冠绝天下神吕布神张辽神吕蒙 左慈 沮授 超稀有玉龙动态灵雎, 强力史诗文鸯, 偷酒界钟会, 梦廊动态大宝,灵魂歌王，许攸 骆驼 戏子 ，神张辽，巨兽，小熊 花蔓，马云禄，张星彩， 冠绝天下神吕布
-【定价】：1588
+【xy5】回廊界钟会杜预24l7ss骠骑
+【售价】850元
 
 
-
-【编号】：xy5，142
-骠骑，回廊界钟会杜预24l7ss骠骑 骆统 大宝 界沮授 左慈 神赵云 神吕布 
-质量史诗一体干货号 玉龙梦廊动态界钟会,强力文鸯,杜预,界沮授,灵魂歌王,动态界李儒,大宝,许攸,骆统，神赵云，神吕布，巨兽，谋马超
-【定价】：1399
+【xy6】回廊神孙策留赞界徐盛23史诗骠骑
+【售价】870 元
 
 
-
-【编号】：xy6，143
-强力骠骑，动态谋曹仁，动态神孙策，动态界李儒，吴王六剑，谋香香，界徐盛，神太史慈等23ss，三卡充足，福利价
-【定价】：1266
+【xy7】动态谋刘备花鬘谋马超
+【售价】80 元
 
 
-
-【编号】：xy7，146
-二等校尉，顶级炸鱼，司马师，祢衡，吴国太，谋刘备，谋马超，花鬘，福利价
-【定价】：120
+【xy8】冠绝天下神吕布许攸骆统界徐盛
+【售价】220 元
 
 
-
-【编号】：xy8，144
-强力先锋，冠绝天下神吕布，许攸，骆统，界徐盛，暴力军争斗地主，三卡充足，福利价
-【定价】：350
+【xy9】回廊界钟会文鸯14ss44宝珠冠绝天下神吕布
+【售价】800 元
 
 
-
-【编号】：xy9，145
-无敌骠骑，冠绝天下神吕布，文鸯，动态许攸，绝版回廊动态界钟会，回廊貂蝉，界徐盛，动态留赞，暴力军争斗地主，三卡充足，44颗宝珠，福利价
-【定价】：1250
+【xy10】回廊界钟会大宝十常侍13史诗22宝珠1W2浆糊5W羽毛骠骑
+【售价】790 元
 
 
-
-【编号】：xy13，147
-三等先锋，玉龙神荀彧骆统花鬘
-【定价】：450
+【xy11】动态神荀彧动戏子回廊张星彩界钟会司马师大宝星黄忠神赵云
+【售价】730 元
 
 
+【xy12】回廊杜预回廊界钟会留宝22史诗20宝珠7800浆糊
+【售价】765 元
 
-【编号】：xy14，148
-一等领军，回廊界钟会文鸯孙寒华10史诗领军，三卡充足福利满满
-【定价】：966
+
+【xy13】玉龙神荀彧骆统花鬘
+【售价】330 元
+
+
+【xy14】回廊界钟会文鸯孙寒华10史诗领军
+【售价】630 元
+
+
+【xy15】大宝 11ss 领军
+【售价】240 元
+
+
+【xy16】界沮授千夫长
+【售价】80 元
+
+
+【xy17】界钟会神吕布6史诗中军
+【售价】135 元
+
+
+【xy18】神吕布校尉
+【售价】88 元
+
+
+【xy19】界钟会大宝谋黄盖34史诗11宝珠大将军
+【售价】670 元
