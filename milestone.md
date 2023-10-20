@@ -13,7 +13,12 @@ header-img: "img/zhihu.jpg"
 【编号】：xy1
 二等校尉，强力史诗裴秀 大宝界徐盛 精品多
 【定价】：198 
-![test](https://raw.githubusercontent.com/sgsss998/sgsss998.GitHub.io/master/img/test.png)
+![xy1-1](https://raw.githubusercontent.com/sgsss998/sgsss998.GitHub.io/master/img/xy1-1.jpg)
+![xy1-2](https://raw.githubusercontent.com/sgsss998/sgsss998.GitHub.io/master/img/xy1-2.jpg)
+![xy1-3](https://raw.githubusercontent.com/sgsss998/sgsss998.GitHub.io/master/img/xy1-3.jpg)
+![xy1-4](https://raw.githubusercontent.com/sgsss998/sgsss998.GitHub.io/master/img/xy1-4.jpg)
+![xy1-5](https://raw.githubusercontent.com/sgsss998/sgsss998.GitHub.io/master/img/xy1-5.jpg)
+![xy1-6](https://raw.githubusercontent.com/sgsss998/sgsss998.GitHub.io/master/img/xy1-6.jpg)
 
 【编号】：xy2
 三等骠骑，动神荀彧界钟会大宝17史诗骠骑 玉龙动态神荀彧无限点将 大宝 界钟会 留赞 许攸 神赵云 骆驼 白马 谋马超 小红帽 界朱然 界曹真 梦廊动态谋刘赪 精品多多
