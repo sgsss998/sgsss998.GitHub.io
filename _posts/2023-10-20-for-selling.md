@@ -25,7 +25,12 @@ description: 如需联系，请添加官方微信randomnumber666
 
 【xy2】动神荀彧界钟会大宝17史诗骠骑 玉龙动态神荀彧无限点将 大宝 界钟会 留赞 许攸 神赵云 骆驼 白马 谋马超 小红帽 界朱然 界曹真 梦廊动态谋刘赪 精品多多
 【售价】650 元
-
+![xy2-1](https://raw.githubusercontent.com/sgsss998/sgsss998.GitHub.io/master/img/xy2-1.jpeg)
+![xy2-2](https://raw.githubusercontent.com/sgsss998/sgsss998.GitHub.io/master/img/xy2-2.jpeg)
+![xy2-3](https://raw.githubusercontent.com/sgsss998/sgsss998.GitHub.io/master/img/xy2-3.jpeg)
+![xy2-4](https://raw.githubusercontent.com/sgsss998/sgsss998.GitHub.io/master/img/xy2-4.jpeg)
+![xy2-5](https://raw.githubusercontent.com/sgsss998/sgsss998.GitHub.io/master/img/xy2-5.jpeg)
+![xy2-6](https://raw.githubusercontent.com/sgsss998/sgsss998.GitHub.io/master/img/xy2-6.jpeg)
 
 【xy3】十常侍夫长 强力史诗十常侍炸鱼号
 【售价】240 元
